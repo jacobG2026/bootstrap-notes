@@ -1,1 +1,11 @@
+/* OVERRIDE a Bootstrap CLASS */
+.col {
+    height: 100A;
+    overflow: hidden;
+}
 
+.text-primary {
+    color: purple !important;
+}
+
+.text-info;
